@@ -1,0 +1,19 @@
+# Desafio 01 - React Native
+### Adicionar a funcionalidade de "curtir"
+
+<h6>Executando o react-native</h6>
+
+```
+yarn # instala as dependências do projeto
+react-native run-android # executa o projeto no android
+yarn start # roda a aplicação
+```
+
+<h5>Necessário ter o <a href="https://github.com/miroswd/gostack-nodejs" blank="_target">Back-end</a> rodando</h5>
+
+<h6>App Mobile</h6>
+<p align="center">
+  <img src="https://github.com/miroswd/gostack-react-native/blob/master/assets/state-i.jpeg" alt="fase-inicial" width="250px"/>
+  <img src="https://github.com/miroswd/gostack-react-native/blob/master/assets/state-m.jpeg" alt="pressionando-botao" width="250px"/>
+  <img src="https://github.com/miroswd/gostack-react-native/blob/master/assets/state-f.jpeg" alt="fim-da-execucao" width="250px"/>
+</p>
