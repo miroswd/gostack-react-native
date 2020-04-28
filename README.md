@@ -1,6 +1,9 @@
 # Desafio 01 - React Native
 ### Adicionar a funcionalidade de "curtir"
 
+<p>Esse projeto utiliza as funcionalidades desenvolvidas no desafio 01 de Node.JS. Ao clicar no botão curtir, é chamada uma rota da API, a qual incrementa +1 ao estado atual, do número de curtidas.</p>
+
+
 <h6>Executando o react-native</h6>
 
 ```
